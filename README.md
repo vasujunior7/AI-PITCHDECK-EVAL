@@ -1730,7 +1730,7 @@ Proprietary - All Rights Reserved
 
 ## 👥 Authors
 
-**Kundan Kumar** - *Lead Developer*
+**Hardik Sharma & Nakshatra Jain** - *Lead Developer*
 
 ---
 
