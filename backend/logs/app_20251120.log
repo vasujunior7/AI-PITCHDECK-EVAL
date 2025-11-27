@@ -1,0 +1,146 @@
+2025-11-20 14:38:08 | [32mINFO[0m | core.logging | Starting AI Presentation Analyzer...
+2025-11-20 14:38:08 | [0m[32mINFO[0m[0m | core.logging | Starting AI Presentation Analyzer...
+2025-11-20 14:38:08 | [32mINFO[0m | core.logging | Upload directory: uploads
+2025-11-20 14:38:08 | [0m[32mINFO[0m[0m | core.logging | Upload directory: uploads
+2025-11-20 14:38:08 | [32mINFO[0m | core.logging | Reports directory: reports
+2025-11-20 14:38:08 | [0m[32mINFO[0m[0m | core.logging | Reports directory: reports
+2025-11-20 14:38:08 | [32mINFO[0m | core.logging | Server ready!
+2025-11-20 14:38:08 | [0m[32mINFO[0m[0m | core.logging | Server ready!
+2025-11-20 14:38:09 | [32mINFO[0m | core.logging | Shutting down gracefully...
+2025-11-20 14:38:09 | [0m[32mINFO[0m[0m | core.logging | Shutting down gracefully...
+2025-11-20 14:38:11 | [32mINFO[0m | core.logging | Starting AI Presentation Analyzer...
+2025-11-20 14:38:11 | [0m[32mINFO[0m[0m | core.logging | Starting AI Presentation Analyzer...
+2025-11-20 14:38:11 | [32mINFO[0m | core.logging | Upload directory: uploads
+2025-11-20 14:38:11 | [0m[32mINFO[0m[0m | core.logging | Upload directory: uploads
+2025-11-20 14:38:11 | [32mINFO[0m | core.logging | Reports directory: reports
+2025-11-20 14:38:11 | [0m[32mINFO[0m[0m | core.logging | Reports directory: reports
+2025-11-20 14:38:11 | [32mINFO[0m | core.logging | Server ready!
+2025-11-20 14:38:11 | [0m[32mINFO[0m[0m | core.logging | Server ready!
+2025-11-20 14:38:30 | [32mINFO[0m | core.logging | [7e918653-cbb4-4862-9040-7a6b66f55e25] GET /docs
+2025-11-20 14:38:30 | [0m[32mINFO[0m[0m | core.logging | [7e918653-cbb4-4862-9040-7a6b66f55e25] GET /docs
+2025-11-20 14:38:30 | [32mINFO[0m | core.logging | [7e918653-cbb4-4862-9040-7a6b66f55e25] Completed in 0.00s - Status: 200
+2025-11-20 14:38:30 | [0m[32mINFO[0m[0m | core.logging | [7e918653-cbb4-4862-9040-7a6b66f55e25] Completed in 0.00s - Status: 200
+2025-11-20 14:38:35 | [32mINFO[0m | core.logging | [166757e6-c7f8-403e-ba1e-8cd6f60035f1] GET /openapi.json
+2025-11-20 14:38:35 | [0m[32mINFO[0m[0m | core.logging | [166757e6-c7f8-403e-ba1e-8cd6f60035f1] GET /openapi.json
+2025-11-20 14:38:35 | [32mINFO[0m | core.logging | [166757e6-c7f8-403e-ba1e-8cd6f60035f1] Completed in 0.03s - Status: 200
+2025-11-20 14:38:35 | [0m[32mINFO[0m[0m | core.logging | [166757e6-c7f8-403e-ba1e-8cd6f60035f1] Completed in 0.03s - Status: 200
+2025-11-20 14:40:11 | [32mINFO[0m | core.logging | Shutting down gracefully...
+2025-11-20 14:40:11 | [0m[32mINFO[0m[0m | core.logging | Shutting down gracefully...
+2025-11-20 14:44:55 | [32mINFO[0m | core.logging | Starting AI Presentation Analyzer...
+2025-11-20 14:44:55 | [0m[32mINFO[0m[0m | core.logging | Starting AI Presentation Analyzer...
+2025-11-20 14:44:55 | [32mINFO[0m | core.logging | Upload directory: uploads
+2025-11-20 14:44:55 | [0m[32mINFO[0m[0m | core.logging | Upload directory: uploads
+2025-11-20 14:44:55 | [32mINFO[0m | core.logging | Reports directory: reports
+2025-11-20 14:44:55 | [0m[32mINFO[0m[0m | core.logging | Reports directory: reports
+2025-11-20 14:44:55 | [32mINFO[0m | core.logging | Server ready!
+2025-11-20 14:44:55 | [0m[32mINFO[0m[0m | core.logging | Server ready!
+2025-11-20 14:46:17 | [32mINFO[0m | core.logging | Shutting down gracefully...
+2025-11-20 14:46:17 | [0m[32mINFO[0m[0m | core.logging | Shutting down gracefully...
+2025-11-20 14:46:20 | [32mINFO[0m | core.logging | Starting AI Presentation Analyzer...
+2025-11-20 14:46:20 | [0m[32mINFO[0m[0m | core.logging | Starting AI Presentation Analyzer...
+2025-11-20 14:46:20 | [32mINFO[0m | core.logging | Upload directory: uploads
+2025-11-20 14:46:20 | [0m[32mINFO[0m[0m | core.logging | Upload directory: uploads
+2025-11-20 14:46:20 | [32mINFO[0m | core.logging | Reports directory: reports
+2025-11-20 14:46:20 | [0m[32mINFO[0m[0m | core.logging | Reports directory: reports
+2025-11-20 14:46:20 | [32mINFO[0m | core.logging | Server ready!
+2025-11-20 14:46:20 | [0m[32mINFO[0m[0m | core.logging | Server ready!
+2025-11-20 15:08:10 | [32mINFO[0m | core.logging | Shutting down gracefully...
+2025-11-20 15:08:10 | [0m[32mINFO[0m[0m | core.logging | Shutting down gracefully...
+2025-11-20 15:11:08 | [32mINFO[0m | core.logging | Parsing .pptx file: test_presentation.pptx
+2025-11-20 15:11:08 | [32mINFO[0m | core.logging | Parsing PPTX file...
+2025-11-20 15:11:08 | [32mINFO[0m | core.logging | Parsed slide 1: 'AI-Powered Presentation Analyzer' (8 words, 0 images)
+2025-11-20 15:11:08 | [32mINFO[0m | core.logging | Parsed slide 2: 'Key Features' (17 words, 0 images)
+2025-11-20 15:11:08 | [32mINFO[0m | core.logging | Parsed slide 3: 'Technical Architecture' (33 words, 0 images)
+2025-11-20 15:11:08 | [32mINFO[0m | core.logging | Parsed slide 4: 'Thank You' (1 words, 0 images)
+2025-11-20 15:11:08 | [32mINFO[0m | core.logging | Parsed slide 5: 'Detailed Technical Specifications' (87 words, 0 images)
+2025-11-20 15:11:08 | [32mINFO[0m | core.logging | Successfully parsed 5 slides
+2025-11-20 16:28:28 | [32mINFO[0m | core.logging | Starting section classification for 7 slides
+2025-11-20 16:28:28 | [32mINFO[0m | core.logging | Loading sentence-transformers model...
+2025-11-20 16:28:28 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Use pytorch device_name: cpu
+2025-11-20 16:28:28 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-20 16:28:38 | [32mINFO[0m | core.logging | Model loaded successfully
+2025-11-20 16:28:38 | [31mERROR[0m | core.logging | Section classification failed: 'Slide' object has no attribute 'body'
+2025-11-20 16:30:01 | [32mINFO[0m | core.logging | Starting section classification for 7 slides
+2025-11-20 16:30:01 | [32mINFO[0m | core.logging | Loading sentence-transformers model...
+2025-11-20 16:30:01 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Use pytorch device_name: cpu
+2025-11-20 16:30:01 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-20 16:30:09 | [32mINFO[0m | core.logging | Model loaded successfully
+2025-11-20 16:30:10 | [32mINFO[0m | core.logging | Slide 1: classified as 'results' (confidence: 0.47)
+2025-11-20 16:30:11 | [32mINFO[0m | core.logging | Slide 2: classified as 'background' (confidence: 0.46)
+2025-11-20 16:30:12 | [32mINFO[0m | core.logging | Slide 3: classified as 'methodology' (confidence: 0.46)
+2025-11-20 16:30:13 | [32mINFO[0m | core.logging | Slide 4: classified as 'results' (confidence: 0.47)
+2025-11-20 16:30:14 | [32mINFO[0m | core.logging | Slide 5: classified as 'results' (confidence: 0.49)
+2025-11-20 16:30:16 | [32mINFO[0m | core.logging | Slide 6: classified as 'conclusion' (confidence: 0.55)
+2025-11-20 16:30:16 | [32mINFO[0m | core.logging | Slide 7: classified as 'questions' (confidence: 0.59)
+2025-11-20 16:30:16 | [31mERROR[0m | core.logging | Section classification failed: 'Slide' object has no attribute 'body'
+2025-11-20 16:31:14 | [32mINFO[0m | core.logging | Starting section classification for 7 slides
+2025-11-20 16:31:14 | [32mINFO[0m | core.logging | Loading sentence-transformers model...
+2025-11-20 16:31:14 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Use pytorch device_name: cpu
+2025-11-20 16:31:14 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-20 16:31:27 | [32mINFO[0m | core.logging | Model loaded successfully
+2025-11-20 16:31:28 | [32mINFO[0m | core.logging | Slide 1: classified as 'results' (confidence: 0.47)
+2025-11-20 16:31:29 | [32mINFO[0m | core.logging | Slide 2: classified as 'background' (confidence: 0.46)
+2025-11-20 16:31:29 | [32mINFO[0m | core.logging | Slide 3: classified as 'methodology' (confidence: 0.46)
+2025-11-20 16:31:29 | [32mINFO[0m | core.logging | Slide 4: classified as 'results' (confidence: 0.47)
+2025-11-20 16:31:30 | [32mINFO[0m | core.logging | Slide 5: classified as 'results' (confidence: 0.49)
+2025-11-20 16:31:31 | [32mINFO[0m | core.logging | Slide 6: classified as 'conclusion' (confidence: 0.55)
+2025-11-20 16:31:31 | [32mINFO[0m | core.logging | Slide 7: classified as 'questions' (confidence: 0.59)
+2025-11-20 16:31:31 | [32mINFO[0m | core.logging | Slide 1: Overriding to 'introduction' based on position + keywords
+2025-11-20 16:31:31 | [32mINFO[0m | core.logging | Slide 7: Overriding to 'questions' based on position + keywords
+2025-11-20 16:31:31 | [32mINFO[0m | core.logging | Section classification complete
+2025-11-20 16:34:58 | [32mINFO[0m | core.logging | Starting section classification for 7 slides
+2025-11-20 16:34:58 | [32mINFO[0m | core.logging | Loading sentence-transformers model...
+2025-11-20 16:34:58 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Use pytorch device_name: cpu
+2025-11-20 16:34:58 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-20 16:35:08 | [32mINFO[0m | core.logging | Model loaded successfully
+2025-11-20 16:35:09 | [32mINFO[0m | core.logging | Slide 1: classified as 'introduction' (confidence: 0.49)
+2025-11-20 16:35:10 | [32mINFO[0m | core.logging | Slide 2: classified as 'background' (confidence: 0.82)
+2025-11-20 16:35:10 | [32mINFO[0m | core.logging | Slide 3: classified as 'methodology' (confidence: 0.86)
+2025-11-20 16:35:11 | [32mINFO[0m | core.logging | Slide 4: classified as 'results' (confidence: 0.88)
+2025-11-20 16:35:11 | [32mINFO[0m | core.logging | Slide 5: classified as 'discussion' (confidence: 0.78)
+2025-11-20 16:35:11 | [32mINFO[0m | core.logging | Slide 6: classified as 'conclusion' (confidence: 0.98)
+2025-11-20 16:35:12 | [32mINFO[0m | core.logging | Slide 7: classified as 'questions' (confidence: 1.00)
+2025-11-20 16:35:12 | [32mINFO[0m | core.logging | Slide 1: Boosting 'introduction' classification (position heuristic)
+2025-11-20 16:35:12 | [32mINFO[0m | core.logging | Section classification complete
+2025-11-20 16:41:29 | [32mINFO[0m | core.logging | Starting feature extraction for 8 slides
+2025-11-20 16:41:29 | [32mINFO[0m | core.logging | Calculating semantic density...
+2025-11-20 16:41:29 | [32mINFO[0m | core.logging | Loading sentence-transformers model for feature extraction...
+2025-11-20 16:41:29 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Use pytorch device_name: cpu
+2025-11-20 16:41:29 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-20 16:41:40 | [32mINFO[0m | core.logging | Model loaded successfully
+2025-11-20 16:41:41 | [32mINFO[0m | core.logging | Semantic density: overall=0.832, avg_per_slide=0.687
+2025-11-20 16:41:41 | [32mINFO[0m | core.logging | Detecting content redundancy (threshold=0.85)...
+2025-11-20 16:41:41 | [32mINFO[0m | core.logging | Found 0 redundant pairs, score=0.000
+2025-11-20 16:41:41 | [32mINFO[0m | core.logging | Analyzing layout quality...
+2025-11-20 16:41:41 | [32mINFO[0m | core.logging | Layout quality score: 69.7/100
+2025-11-20 16:41:41 | [32mINFO[0m | core.logging | Classifying cognitive levels (Bloom's Taxonomy)...
+2025-11-20 16:41:41 | [32mINFO[0m | core.logging | Bloom's Taxonomy: avg_level=4.25, progression=0.57
+2025-11-20 16:41:41 | [32mINFO[0m | core.logging | Feature extraction complete
+2025-11-20 16:42:59 | [32mINFO[0m | core.logging | Starting feature extraction for 8 slides
+2025-11-20 16:42:59 | [32mINFO[0m | core.logging | Calculating semantic density...
+2025-11-20 16:42:59 | [32mINFO[0m | core.logging | Loading sentence-transformers model for feature extraction...
+2025-11-20 16:42:59 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Use pytorch device_name: cpu
+2025-11-20 16:42:59 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-20 16:43:09 | [32mINFO[0m | core.logging | Model loaded successfully
+2025-11-20 16:43:09 | [32mINFO[0m | core.logging | Semantic density: overall=0.832, avg_per_slide=0.687
+2025-11-20 16:43:09 | [32mINFO[0m | core.logging | Detecting content redundancy (threshold=0.85)...
+2025-11-20 16:43:09 | [32mINFO[0m | core.logging | Found 0 redundant pairs, score=0.000
+2025-11-20 16:43:09 | [32mINFO[0m | core.logging | Analyzing layout quality...
+2025-11-20 16:43:09 | [32mINFO[0m | core.logging | Layout quality score: 69.7/100
+2025-11-20 16:43:09 | [32mINFO[0m | core.logging | Classifying cognitive levels (Bloom's Taxonomy)...
+2025-11-20 16:43:09 | [32mINFO[0m | core.logging | Bloom's Taxonomy: avg_level=4.25, progression=0.57
+2025-11-20 16:43:09 | [32mINFO[0m | core.logging | Feature extraction complete
+2025-11-20 16:43:58 | [32mINFO[0m | core.logging | Starting feature extraction for 8 slides
+2025-11-20 16:43:58 | [32mINFO[0m | core.logging | Calculating semantic density...
+2025-11-20 16:43:58 | [32mINFO[0m | core.logging | Loading sentence-transformers model for feature extraction...
+2025-11-20 16:43:58 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Use pytorch device_name: cpu
+2025-11-20 16:43:58 | [32mINFO[0m | sentence_transformers.SentenceTransformer | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-20 16:44:06 | [32mINFO[0m | core.logging | Model loaded successfully
+2025-11-20 16:44:07 | [32mINFO[0m | core.logging | Semantic density: overall=0.832, avg_per_slide=0.687
+2025-11-20 16:44:07 | [32mINFO[0m | core.logging | Detecting content redundancy (threshold=0.85)...
+2025-11-20 16:44:07 | [32mINFO[0m | core.logging | Found 0 redundant pairs, score=0.000
+2025-11-20 16:44:07 | [32mINFO[0m | core.logging | Analyzing layout quality...
+2025-11-20 16:44:07 | [32mINFO[0m | core.logging | Layout quality score: 69.7/100
+2025-11-20 16:44:07 | [32mINFO[0m | core.logging | Classifying cognitive levels (Bloom's Taxonomy)...
+2025-11-20 16:44:07 | [32mINFO[0m | core.logging | Bloom's Taxonomy: avg_level=4.25, progression=0.57
+2025-11-20 16:44:07 | [32mINFO[0m | core.logging | Feature extraction complete
